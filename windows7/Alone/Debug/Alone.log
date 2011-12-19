@@ -1,0 +1,16 @@
+﻿Build started 12/16/2011 8:12:28 PM.
+     1>Project "H:\projects\Alone\Alone\Alone.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\Alone.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D SFML_DYNAMIC /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>h:\projects\alone\alone\main.cpp(5): error C2039: 'Window' : is not a member of 'sf'
+     1>h:\projects\alone\alone\main.cpp(5): error C2065: 'Window' : undeclared identifier
+     1>h:\projects\alone\alone\main.cpp(5): error C2146: syntax error : missing ';' before identifier 'App'
+     1>h:\projects\alone\alone\main.cpp(5): error C2065: 'App' : undeclared identifier
+     1>Done Building Project "H:\projects\Alone\Alone\Alone.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.46
