@@ -1,4 +1,4 @@
-﻿Build started 12/18/2011 6:53:51 PM.
+﻿Build started 12/18/2011 7:00:57 PM.
      1>Project "H:\projects\Alone\Alone\Alone.vcxproj" on node 2 (build target(s)).
      1>InitializeBuildStatus:
          Creating "Release\Alone.unsuccessfulbuild" because "AlwaysCreate" was specified.
@@ -29,4 +29,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:03.59
+Time Elapsed 00:00:05.20
